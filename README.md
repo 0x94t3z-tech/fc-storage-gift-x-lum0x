@@ -12,11 +12,11 @@ A Farcaster Frame is used to locate the people you follow on Farcaster who have 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Mr94t3z/fc-storage-gift-on-polygon-pos
+   git clone https://github.com/0x94t3z-tech/fc-storage-gift-x-lum0x
    ```
 2. Navigate to the project directory:
    ```bash
-   cd fc-storage-gift-on-polygon-pos
+   cd fc-storage-gift-x-lum0x
    ```
 3. Install dependencies:
    ```bash
